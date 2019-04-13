@@ -67,6 +67,11 @@ I used Haralick features to obtain the texture feature information from the prep
 
 ## SVC
 
+Support Vector Machines are machine learning algorithms used as both classifier and regression algorithm. Here since classifying whether a patient has heart disease or not is a classification problem so we will be using Support Vector Classifier.
+
+The basic purpose of a SVC is to split the target datapoints using a hyperplane. Having said that once the hyperplane is drawn then the datapoints are not important while classifying an unknown datapoint. This is achieved by drawing the hyperplane equidistant from the most closest datapoint on either side...well that's a mouthfull ;p
+
+All it means is described in the image below.
 
 ## References
 - https://gogul09.github.io/software/texture-recognition
