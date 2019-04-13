@@ -63,11 +63,11 @@ Here, i used the texture information in the leaf images since alone using the te
 
 Texture defines the consistency of patterns and colors in an object/image such as bricks, school uniforms, sand, rocks, grass etc. To classify objects in an image based on texture, we have to look for the consistent spread of patterns and colors in the object’s surface. Rough-Smooth, Hard-Soft, Fine-Coarse are some of the texture pairs one could think of, although there are many such pairs.
 
-I used Haralick features to obtain the texture feature information from the preprocessed image. Haralick feature is a image processing technioque used to extract texture based information. If you want to know more about Haralick features click here.
+I used Haralick features to obtain the texture feature information from the preprocessed image. Haralick feature is a image processing technioque used to extract texture based information. If you want to know more about Haralick features click [here](http://shodhganga.inflibnet.ac.in/bitstream/10603/20682/14/14_chapter%205.pdf).
 
 ## SVC
 
 
 ## References
 - https://gogul09.github.io/software/texture-recognition
-- 
+- http://shodhganga.inflibnet.ac.in/bitstream/10603/20682/14/14_chapter%205.pdf
