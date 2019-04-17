@@ -92,4 +92,5 @@ Since we were getting little overfitting issues with our dataset while using har
 ## Image credits
 
 -https://medium.com/@zachary.bedell/support-vector-machines-explained-73f4ec363f13
+
 -https://quantdare.com/svm-versus-a-monkey/
