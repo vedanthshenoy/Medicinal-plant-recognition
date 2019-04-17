@@ -73,6 +73,8 @@ The basic purpose of a SVC is to split the target datapoints using a hyperplane.
 
 All it means is described in the image below.
 
+![Support Vector Classifier](1-19SVM-2.jpg)
+
 ## References
 - https://gogul09.github.io/software/texture-recognition
 - http://shodhganga.inflibnet.ac.in/bitstream/10603/20682/14/14_chapter%205.pdf
