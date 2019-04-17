@@ -75,6 +75,21 @@ All it means is described in the image below.
 
 ![Support Vector Classifier](1-19SVM-2.jpg)
 
+Here linear kernel is used. Linear kernel can be used when we have data which can be represented in a plane. Often we encounter data which are cannot be expressed in a plane, but the problem with SVM(or here SVC) is that it works only with linearly seperable data so we have to make the datapoints linearly seperable somehow, there we use different kernels. As shown in the below image.
+
+[Making data linearly seperable by changing dimension](svmkernel.png)
+
+[Seperating the transformed data using linear plane](svm_3d.png)
+
+## Using sklearn in-built feature extractor
+
+Since we were getting little overfitting issues with our dataset while using haralick features, i tried to use sklearn in-built feature extractor for images and see whether there is any change in the performance.
+
 ## References
 - https://gogul09.github.io/software/texture-recognition
 - http://shodhganga.inflibnet.ac.in/bitstream/10603/20682/14/14_chapter%205.pdf
+
+## Image credits
+
+-https://medium.com/@zachary.bedell/support-vector-machines-explained-73f4ec363f13
+-https://quantdare.com/svm-versus-a-monkey/
